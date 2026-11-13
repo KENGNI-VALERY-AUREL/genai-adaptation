@@ -1,0 +1,21 @@
+seed: 42
+
+model:
+  name: gpt2          # GPT-2 124M
+  max_new_tokens: 20  # generated tokens per continuation
+
+data:
+  prompt_tokens: 8        # length of IMDB prompts
+  n_train: 5000           # positive reviews used for SFT
+  n_test_prompts: 200     # fixed test size (must not change)
+  n_wiki_samples: 200     # Wikipedia samples used for perplexity
+
+reward:
+  name: distilbert/distilbert-base-uncased-finetuned-sst-2-english
+
+sft:
+  lr: 5.0e-5
+  batch_size: 16
+  epochs: 1
+
+results_dir: results
