@@ -7,9 +7,10 @@ model:
 data:
   prompt_tokens: 8        # length of IMDB prompts
   n_train: 5000           # positive reviews used for SFT
+  n_val: 500              # positive reviews held out for validation
   n_test_prompts: 200     # fixed test size (must not change)
   n_wiki_samples: 200     # Wikipedia samples used for perplexity
-
+  n_shakespeare: 500      # Shakespeare passages for task vectors
 reward:
   name: distilbert/distilbert-base-uncased-finetuned-sst-2-english
 
