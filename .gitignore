@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Données et modèles (trop lourds pour Git)
+data/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Divers
+.env
+.DS_Store
+.vscode/
+wandb/
