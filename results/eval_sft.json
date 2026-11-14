@@ -1,0 +1,15 @@
+{
+  "reward_mean": 0.6870486736297607,
+  "reward_std": 0.44369325041770935,
+  "wiki_ppl": 53.65511728260236,
+  "l2_distance": 24.397797877618103,
+  "distinct_1": 0.12105921228900599,
+  "distinct_2": 0.4700379735111605,
+  "samples": [
+    "When I unsuspectedly rented A Thousand Years as the original film, I was shocked and saddened. To a lesser extent, was a huge",
+    "This is the latest entry in the long-list of films by Richard Gere.    With more than twenty sequels, five of",
+    "This movie was so frustrating. Everything seemed so normal the minute I was put in. I don't know if I should have thought that this",
+    "I was truly and wonderfully surprised at \"The Naked Gun\"-the first film to have made it over 100 million dollars, the first ever and",
+    "This movie spends most of its time preaching how stupid it is. I have seen it all over again and I remember seeing it again and again"
+  ]
+}

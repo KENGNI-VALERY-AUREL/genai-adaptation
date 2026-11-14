@@ -1,15 +1,15 @@
 {
-  "reward_mean": 0.5663353800773621,
-  "reward_std": 0.47482186555862427,
-  "wiki_ppl": 46.47431964978798,
+  "reward_mean": 0.6127318143844604,
+  "reward_std": 0.4639129638671875,
+  "wiki_ppl": 46.474980384183446,
   "l2_distance": 0.0,
-  "distinct_1": 0.28834024148495224,
-  "distinct_2": 0.7719199850439334,
+  "distinct_1": 0.14092481912551116,
+  "distinct_2": 0.5124691185381998,
   "samples": [
-    "When I unsuspectedly rented A Thousand Days In November, 1982, after finishing my first writing residency in Los Angeles, I had one last",
-    "This is the latest entry in the long and arduous journey of the first generation to get to know the real world.\n\nThis book",
-    "This movie was so frustrating. Everything seemed so much more important than I envisioned it to be and I had to keep thinking about what my favorite",
-    "I was truly and wonderfully surprised at \"The World Is Yours\" not only for its humor, but also for how much the humor felt",
-    "This movie spends most of its time preaching the idea that all people have an equal say in the world (except maybe for those who don't"
+    "When I unsuspectedly rented A Thousand Voices as a birthday gift to one of the country's most famous artists, the musician's name was",
+    "This is the latest entry in the long-standing controversy over \"crossover\" movies, and they've always been there. But after a",
+    "This movie was so frustrating. Everything seemed so normal the minute I was put in. I don't know if I should have done that.",
+    "I was truly and wonderfully surprised at \"The Great American Gun Show\" (2009).\n\nFor a week of horror films, no one",
+    "This movie spends most of its time preaching how the poor are being exploited, and that this is not the first time these problems have plagued this"
   ]
 }
