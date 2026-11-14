@@ -1,0 +1,15 @@
+{
+  "reward_mean": 0.6882169246673584,
+  "reward_std": 0.4404557943344116,
+  "wiki_ppl": 57.30771761842838,
+  "l2_distance": 34.63064322362235,
+  "distinct_1": 0.11841400250044651,
+  "distinct_2": 0.4650861270605668,
+  "samples": [
+    "When I unsuspectedly rented A Thousand Years as a child, I knew nothing about acting until my late 20s. And then I knew",
+    "This is the latest entry in the long-list of films by Richard Gere. Its story is a tale of a girl, who wakes",
+    "This movie was so frustrating. Everything seemed so normal the minute I was put in. I don't know why, but if anyone made this",
+    "I was truly and wonderfully surprised at \"The Lion King\"-the first film to have made it over 100 million dollars, the first British motion",
+    "This movie spends most of its time preaching how stupid it is. I have seen it on TV before and I remember seeing it as a joke"
+  ]
+}

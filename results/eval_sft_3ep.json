@@ -1,0 +1,15 @@
+{
+  "reward_mean": 0.7023311853408813,
+  "reward_std": 0.4316311776638031,
+  "wiki_ppl": 60.3639615982264,
+  "l2_distance": 42.30960979645108,
+  "distinct_1": 0.12424661815259609,
+  "distinct_2": 0.47330894948840224,
+  "samples": [
+    "When I unsuspectedly rented A Thousand Years of Love from Radiohead for my wife and child, I was struck by the music. I",
+    "This is the latest entry in the long-list of films by director J\u00fcrgen Reichert and featuring a trio of other key",
+    "This movie was so frustrating. Everything seemed so easy the minute I was put in. I don't know if I should have thought that this",
+    "I was truly and wonderfully surprised at \"Braveheart\", and also really, really surprised by \"The Princess Bride\". I first saw it and",
+    "This movie spends most of its time preaching how stupid it is. I have seen it several times and the first time was when I heard about"
+  ]
+}
