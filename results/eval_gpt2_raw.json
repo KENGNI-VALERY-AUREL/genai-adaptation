@@ -1,0 +1,15 @@
+{
+  "reward_mean": 0.5663353800773621,
+  "reward_std": 0.47482186555862427,
+  "wiki_ppl": 46.47431964978798,
+  "l2_distance": 0.0,
+  "distinct_1": 0.28834024148495224,
+  "distinct_2": 0.7719199850439334,
+  "samples": [
+    "When I unsuspectedly rented A Thousand Days In November, 1982, after finishing my first writing residency in Los Angeles, I had one last",
+    "This is the latest entry in the long and arduous journey of the first generation to get to know the real world.\n\nThis book",
+    "This movie was so frustrating. Everything seemed so much more important than I envisioned it to be and I had to keep thinking about what my favorite",
+    "I was truly and wonderfully surprised at \"The World Is Yours\" not only for its humor, but also for how much the humor felt",
+    "This movie spends most of its time preaching the idea that all people have an equal say in the world (except maybe for those who don't"
+  ]
+}

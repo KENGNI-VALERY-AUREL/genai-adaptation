@@ -18,5 +18,12 @@ sft:
   lr: 5.0e-5
   batch_size: 16
   epochs: 1
+  max_length: 128      # truncate reviews (keeps CPU training tractable)
+  checkpoint_dir: checkpoints/sft
+
+eval:
+  gen_batch_size: 16      # prompts per generation batch
+  n_generations: 4        # generations per test prompt (fixed, must not change)
+  ppl_max_length: 256     # truncation length for perplexity
 
 results_dir: results

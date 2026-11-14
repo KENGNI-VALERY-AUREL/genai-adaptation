@@ -1,0 +1,15 @@
+{
+  "reward_mean": 0.6130901575088501,
+  "reward_std": 0.4700150191783905,
+  "wiki_ppl": 48.201080863216724,
+  "l2_distance": 2.1891930535395283,
+  "distinct_1": 0.27414441856298155,
+  "distinct_2": 0.7606392863779966,
+  "samples": [
+    "When I unsuspectedly rented A Thousand Days In Hell in the 80's at 4pm, I was instantly fascinated by the beauty of a",
+    "This is the latest entry in the long line of classic science fiction series by Robert De Niro. The series is a classic of scientific fiction",
+    "This movie was so frustrating. Everything seemed so much more important than I thought it was. Then I watched it and I watched it again and",
+    "I was truly and wonderfully surprised at \"The World Is Not a Game\" before watching it. It's so beautifully written, the opening scene",
+    "This movie spends most of its time preaching the virtues of American culture. And there is no doubt it's not just good. There are plenty"
+  ]
+}
