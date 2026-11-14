@@ -1,0 +1,5 @@
+,reward_mean,reward_se,wiki_ppl,l2_distance,distinct_1,distinct_2,train_time_min,peak_gpu_gb
+GPT-2 (raw),0.613,0.016,46.475,0.0,0.141,0.512,,
+SFT 1 epoch,0.687,0.016,53.655,24.398,0.121,0.47,,
+SFT 2 epochs,0.688,0.016,57.308,34.631,0.118,0.465,6.746,5.091
+SFT 3 epochs,0.702,0.015,60.364,42.31,0.124,0.473,10.455,5.091
