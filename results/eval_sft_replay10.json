@@ -1,0 +1,15 @@
+{
+  "reward_mean": 0.7194494605064392,
+  "reward_std": 0.4260193109512329,
+  "wiki_ppl": 36.39493923634315,
+  "l2_distance": 21.978918454402255,
+  "distinct_1": 0.1239341042010804,
+  "distinct_2": 0.4741423214037687,
+  "samples": [
+    "When I unsuspectedly rented A Thousand Years as a child, I knew nothing about acting. It was like I was a child learning to",
+    "This is the latest entry in the long-standing Oscar-winning franchise, based on the story of a young boy who falls for a classmate",
+    "This movie was so frustrating. Everything seemed so easy the minute I was put in. The acting kept getting worse, but if you were looking",
+    "I was truly and wonderfully surprised at \"The Lion King\"-the \"lion's\" very true story. It was certainly entertaining, and",
+    "This movie spends most of its time preaching how stupid it is. As if you don't know that the movie is bad! You hear this"
+  ]
+}
